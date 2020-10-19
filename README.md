@@ -9,4 +9,3 @@ Phân công công việc:
 
 #### Note:  
 #### - Upload các file lên branch riêng (đã được tạo sẵn) của từng người ko up lên master.
-#### - Deadline 20/10/2020 12:00 pm
